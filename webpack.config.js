@@ -25,7 +25,6 @@ module.exports = {
       }
     ]
   },
-  devtool: 'inline-source-map',
   resolve: {
     modules: [
       path.resolve(__dirname, 'app/main/js/'),
