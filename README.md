@@ -13,3 +13,9 @@
     npm run build
 
 コンパイルが正常に終わったら index.html をブラウザで開いてください。
+
+## 備考
+
+開発時は以下のコマンドでファイル監視しながら development モードでコンパイルできます。
+
+    npm run dev
